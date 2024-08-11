@@ -1,0 +1,1 @@
+SELECT * FROM sin_up.admn;
